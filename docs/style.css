@@ -23,6 +23,10 @@ body a {
     text-decoration: none;
     transform: translateY(0px);
     filter: hue-rotate(0deg);
+    height: 100px;
+    width: 100px;
+
+    box-shadow: 0 6px hsl(232, 35%, 20%);
 
     transition: all 0.2s;
 }
@@ -32,6 +36,7 @@ body a:hover {
     filter: hue-rotate(90deg);
     color: hsl(340, 100%, 20%);
     background-color: hsl(232, 55%, 60%);
+    box-shadow: 0 0;
 }
 
 body div {
