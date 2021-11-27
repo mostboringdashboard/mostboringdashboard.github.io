@@ -1,7 +1,7 @@
 function parse(links) {
     let main = document.querySelector("main");
 
-    let lines = links.split('\n');
+    let lines = links.split('\n').split('\r');
     let currentDiv = null;
 
     for (let i = 0; i < lines.length; i++) {
