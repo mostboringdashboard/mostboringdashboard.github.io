@@ -1,7 +1,7 @@
 function parse(links) {
     let main = document.querySelector("main");
 
-    let lines = links.split('\r\n');
+    let lines = links.split('\n');
     let currentDiv = null;
 
     for (let i = 0; i < lines.length; i++) {
@@ -31,6 +31,4 @@ window.addEventListener('load', () => {
     fetch('links.txt')
     .then(content => content.text())
     .then(text => parse(text));
-} )
-
-
+});
