@@ -22,7 +22,6 @@ body a {
     border-radius: 6px;
     text-decoration: none;
     transform: translateY(0px);
-    filter: hue-rotate(0deg);
     height: 100px;
     width: 100px;
 
@@ -33,9 +32,9 @@ body a {
 
 body a:hover {
     transform: translateY(6px);
-    filter: hue-rotate(90deg);
-    color: hsl(340, 100%, 20%);
-    background-color: hsl(232, 55%, 60%);
+    color: hsl(0, 100%, 15%);
+    filter: drop-shadow(0 4px 22px hsla(336, 55%, 60%, 20%));
+    background-color: hsl(336, 75%, 55%);
     box-shadow: 0 0;
 }
 

@@ -1,0 +1,32 @@
+# Algemeen
+Mijn HR, https://mijn.hr.nl/
+Clever, https://cle.cmgt.hr.nl/
+OSIRIS, https://student.osiris.hro.nl:9021/osiris_student/LoginDirect.do/
+Cumlaude, https://lms.hr.nl/
+HINT, https://hint.hr.nl/
+CMGT Github, https://github.com/HR-CMGT/
+WebMail, https://webmail.hro.nl/
+
+# Overig
+SURFspot, https://www.surfspot.nl/stc
+Mediatheek, https://www.hogeschoolrotterdam.nl/voorlichting/begeleiding-en-voorzieningen/mediatheek/
+PraktijkLink, https://praktijklink.hr.nl/
+Remindo, https://hr.remindotoets.nl/login/
+Corona Informatie, https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/
+
+# Socials
+Instagram, https://www.instagram.com/cmgt_hr/
+Twitch, https://www.twitch.tv/cmgt_hr
+Showcase, https://cmgt.hr.nl/
+
+# Contact
+Decanen, https://hint.hr.nl/nl/HR/Studie/hulp-bij-studie/mijn-studie/studieondersteuners/decaan/afspraak-maken-decaan/
+Contact personen, https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpersonen/
+
+# Oude Links
+Hint Rooster, https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/Lesrooster/
+
+# Docenten
+Sharepoint, https://hrnl.sharepoint.com/sites/CMGT
+Office 365, http://office.hr.nl/
+Toolbox, ttps://toolbox.hr.nl/
