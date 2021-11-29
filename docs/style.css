@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('./Ubuntu/Ubuntu-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('./Ubuntu/Ubuntu-Bold.ttf');
+    font-weight: bold;
+}
+
 body {
     font-family: 'Ubuntu', Arial, sans-serif;
     background-color: #213;
@@ -33,7 +44,7 @@ body a {
 body a:hover {
     transform: translateY(6px);
     color: hsl(0, 100%, 15%);
-    filter: drop-shadow(0 4px 22px hsla(336, 55%, 60%, 20%));
+    /* filter: drop-shadow(0 4px 22px hsla(336, 55%, 60%, 20%)); */
     background-color: hsl(336, 75%, 55%);
     box-shadow: 0 0;
 }

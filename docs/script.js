@@ -3,7 +3,6 @@ function parse(links) {
 
     let lines = links.split('\n');
     let currentDiv = null;
-    console.log(lines)
 
     for (let i = 0; i < lines.length; i++) {
         let line = lines[i];
