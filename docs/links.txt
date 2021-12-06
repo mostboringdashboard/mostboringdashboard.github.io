@@ -7,13 +7,17 @@ HINT, https://hint.hr.nl/
 CMGT Github, https://github.com/HR-CMGT/
 WebMail, https://webmail.hro.nl/
 
-# Overig
+# Other
 SURFspot, https://www.surfspot.nl/stc
 Mediatheek, https://www.hogeschoolrotterdam.nl/voorlichting/begeleiding-en-voorzieningen/mediatheek/
 PraktijkLink, https://praktijklink.hr.nl/
 Remindo, https://hr.remindotoets.nl/login/
 Corona Informatie, https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/
 Hint Rooster, https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/Lesrooster/
+Digitale Schrijfhulp, https://san.schrijfhulp.be/login.php
+
+# Theory
+CMGT Knowledgebase, https://github.com/LuukFTF/knowledgebase/tree/master/articles/cmgt
 
 # Gamedev
 Gaminator, https://hr-cmgt.github.io/gaminator/
