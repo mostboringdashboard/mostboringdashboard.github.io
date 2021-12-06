@@ -13,6 +13,13 @@ Mediatheek, https://www.hogeschoolrotterdam.nl/voorlichting/begeleiding-en-voorz
 PraktijkLink, https://praktijklink.hr.nl/
 Remindo, https://hr.remindotoets.nl/login/
 Corona Informatie, https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/
+Hint Rooster, https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/Lesrooster/
+
+# Gamedev
+Gaminator, https://hr-cmgt.github.io/gaminator/
+
+# Jaar 4
+Minors, https://hint.hr.nl/nl/HR/Studie/keuzes-in-je-studie/Minors/Minoroverzicht/?ticket=ST-6352669-AytkFxrxKeJQICme2JUo3UFjfQ0T0XUcYLx-20
 
 # Socials
 Instagram, https://www.instagram.com/cmgt_hr/
@@ -22,12 +29,6 @@ Showcase, https://cmgt.hr.nl/
 # Contact
 Decanen, https://hint.hr.nl/nl/HR/Studie/hulp-bij-studie/mijn-studie/studieondersteuners/decaan/afspraak-maken-decaan/
 Contact personen, https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpersonen/
-
-# Oude Links
-Hint Rooster, https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/Lesrooster/
-
-# Jaar 4
-Minors, https://hint.hr.nl/nl/HR/Studie/keuzes-in-je-studie/Minors/Minoroverzicht/?ticket=ST-6352669-AytkFxrxKeJQICme2JUo3UFjfQ0T0XUcYLx-20
 
 # Docenten
 Sharepoint, https://hrnl.sharepoint.com/sites/CMGT
