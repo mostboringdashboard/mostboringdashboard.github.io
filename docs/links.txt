@@ -26,6 +26,9 @@ Contact personen, https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpers
 # Oude Links
 Hint Rooster, https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/Lesrooster/
 
+# Jaar 4
+Minors, https://hint.hr.nl/nl/HR/Studie/keuzes-in-je-studie/Minors/Minoroverzicht/?ticket=ST-6352669-AytkFxrxKeJQICme2JUo3UFjfQ0T0XUcYLx-20
+
 # Docenten
 Sharepoint, https://hrnl.sharepoint.com/sites/CMGT
 Office 365, http://office.hr.nl/
