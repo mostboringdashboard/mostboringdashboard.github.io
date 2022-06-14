@@ -1,7 +1,7 @@
 # Algemeen
 Mijn HR, https://mijn.hr.nl/
 Clever, https://cle.cmgt.hr.nl/
-OSIRIS, https://student.osiris.hro.nl:9021/osiris_student/LoginDirect.do/
+OSIRIS, https://student.osiris.hro.nl/
 Cumlaude, https://lms.hr.nl/
 HINT, https://hint.hr.nl/
 CMGT Github, https://github.com/HR-CMGT/
