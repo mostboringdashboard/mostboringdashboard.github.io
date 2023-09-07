@@ -1,0 +1,49 @@
+# General
+Mijn HR, https://mijn.hr.nl/
+Brightspace, http://brightspace.hr.nl/
+HINT, https://hint.hr.nl/
+Osiris, https://hr.osiris-student.nl
+CMGT Github, https://github.com/HR-CMGT/
+WebMail, https://webmail.hro.nl/
+Clever, https://cle.cmgt.hr.nl/
+
+# Other
+SURFspot, https://www.surfspot.nl/stc
+Mediatheek, https://www.hogeschoolrotterdam.nl/voorlichting/begeleiding-en-voorzieningen/mediatheek/
+PraktijkLink, https://praktijklink.hr.nl/
+Remindo, https://hr.remindotoets.nl/login/
+Hint Rooster, https://hint.hr.nl/nl/HR/Studie/roosters-en-cijfers/Lesrooster/
+Digitale Schrijfhulp, https://san.schrijfhulp.be/login.php
+Minors, https://hint.hr.nl/nl/HR/Studie/keuzes-in-je-studie/Minors/Minoroverzicht/?ticket=ST-6352669-AytkFxrxKeJQICme2JUo3UFjfQ0T0XUcYLx-20
+Gaminator, https://hr-cmgt.github.io/gaminator/
+Jaarrooster, https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/creative-media-and-game-technologies/voltijd/opleidingsinformatie/jaarrooster
+Brightspace App, https://hr-student.screenstepslive.com/a/1619907
+
+# Onderzoeksbronnen
+Gartner,
+ACM,
+Google Scholar,
+
+# CMGT Socials
+Instagram, https://www.instagram.com/cmgt_hr/ 
+Twitch, https://www.twitch.tv/cmgt_hr
+Showcase, https://cmgt.hr.nl/
+HR.nl, https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/creative-media-and-game-technologies/voltijd/
+
+# Contact
+Decanen, https://hint.hr.nl/nl/HR/Studie/hulp-bij-studie/mijn-studie/studieondersteuners/decaan/afspraak-maken-decaan/
+Contact personen, https://hint.hr.nl/nl/HR/Over-de-HR/De-Organisatie/Contactpersonen/
+
+# Docenten
+Sharepoint, https://hrnl.sharepoint.com/sites/CMGT
+Office 365, http://office.hr.nl/
+Toolbox, ttps://toolbox.hr.nl/
+
+# Old links
+Corona Informatie, https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/coronavirus---stand-van-zaken-binnen-hogeschool-rotterdam/
+CMGT Knowledgebase, https://github.com/LuukFTF/knowledgebase/tree/master/articles/cmgt
+Oude OSIRIS, https://student.osiris.hro.nl/
+Cumlaude, https://lms.hr.nl/
+
+# Sourcecode
+sourcecode, https://github.com/mostboringdashboard/mostboringdashboard.github.io
