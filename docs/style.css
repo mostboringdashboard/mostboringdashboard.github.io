@@ -29,7 +29,6 @@ body a {
     background-color: hsl(232, 35%, 40%);
     padding: 1rem;
     margin: 0.5rem;
-    text-align: center;
     border-radius: 6px;
     text-decoration: none;
     transform: translateY(0px);
@@ -51,4 +50,22 @@ body a:hover {
 
 body div {
     display: flex;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        padding: 0;
+        margin: 8px;
+    }
+
+    body a {
+        height: 50px;
+        padding: 0.5rem;
+        width: calc(50% - 2rem);
+    }
+
+    h2 {
+        margin: 1rem 0;
+    }
 }
